@@ -1,10 +1,12 @@
 # Shafi Fasihuddin
-I'm coming from a science background and am completely new to data analytics. 
+I have a bachelors degree in Biology and am completely new to data analytics. 
 
 Goal for course:
 
 -Learn the foundations of data analytics
+
 -get a job as a data analyst
+
 -network with future data analysts
 
 Python Coding Article:  (https://www.infoworld.com/article/3204016/what-is-python-powerful-intuitive-programming.html "What is Python?)
